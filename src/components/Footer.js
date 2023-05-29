@@ -23,7 +23,7 @@ const Footer = () => {
         </li>
         <li>
           <a
-            href="https://bd.linkedin.com/in/osman-joher-8641b01b5"
+            href="https://bd.linkedin.com/in/osmanjoher"
             className="mr-4 hover:underline md:mr-6"
             target="_blank"
             rel="noreferrer">
